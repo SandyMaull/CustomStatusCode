@@ -1,0 +1,78 @@
+.left {
+    background: grey;  
+}
+.main-wrapper {
+    height: 100vh;  
+}
+  
+@font-face {
+    font-family: Josef;
+    src: url(assets/JosefinSans-VariableFont_wght.ttf);
+  }
+.section {
+    height: 100%;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.errors {
+    margin-bottom: 2em;
+}
+
+.zero {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border: 2px solid #000000;
+}
+
+.number1 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number2 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number3 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number4 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number5 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number6 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number7 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number8 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number9 {
+    font-size: 7em;
+    font-family: Josef;
+}
+
+.number0 {
+    font-size: 7em;
+    font-family: Josef;
+}
