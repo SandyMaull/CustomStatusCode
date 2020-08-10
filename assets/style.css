@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Josef;
+    src: url(/assets/Josef.ttf) format('truetype');
+}
+
 .left {
     background: grey;  
 }
@@ -5,10 +10,6 @@
     height: 100vh;  
 }
   
-@font-face {
-    font-family: Josef;
-    src: url(assets/JosefinSans-VariableFont_wght.ttf);
-  }
 .section {
     height: 100%;  
     display: flex;
