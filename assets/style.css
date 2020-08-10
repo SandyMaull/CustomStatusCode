@@ -1,6 +1,6 @@
 @font-face {
     font-family: Josef;
-    src: url(/assets/Josef.ttf) format('truetype');
+    src: url("Josef.ttf") format('truetype');
 }
 
 .left {
@@ -18,62 +18,62 @@
     align-items: center;
 }
 .errors {
-    margin-bottom: 2em;
+    margin-bottom: 2em !important;
 }
 
 .zero {
-    height: 100px;
-    width: 100px;
+    height: 100px !important;
+    width: 100px !important;
     border-radius: 100%;
     border: 2px solid #000000;
 }
 
 .number1 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number2 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number3 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number4 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number5 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number6 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number7 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number8 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number9 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
 
 .number0 {
-    font-size: 7em;
-    font-family: Josef;
+    font-size: 7em !important;
+    font-family: Josef !important;
 }
