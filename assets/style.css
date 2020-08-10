@@ -3,7 +3,7 @@
     src: url("Josef.ttf") format('truetype');
 }
 
-.left {
+body {
     background: grey;  
 }
 .main-wrapper {
@@ -17,63 +17,9 @@
     justify-content: center;
     align-items: center;
 }
-.errors {
-    margin-bottom: 2em !important;
-}
 
-.zero img {
-    height: 100px !important;
-    width: 100px !important;
+.zero {
     border-radius: 100%;
     border: 2px solid #000000;
 }
 
-.number1 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number2 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number3 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number4 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number5 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number6 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number7 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number8 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number9 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
-
-.number0 {
-    font-size: 7em !important;
-    font-family: Josef !important;
-}
